@@ -72,3 +72,20 @@
 - highlighted bars as talking about them in chart
 
 #### Modeling
+- features used and visualized their importance
+- talked about true positive rate and area under the curve and how to gauge model performance
+- talked about how model works
+
+### Tale of two cities
+#### Takeaways
+- if you are reading off cards make sure they are in the direciton of the camera
+- highlight the charts you are talking about 
+
+### Identifying customers at risk of defaulting
+#### Takeaways
+- we all need to record at the same place under the same light/conditions
+### NFL big data bowl
+####  Takeaways
+- Make sure visualizations are relevant to what is being talked about
+### We came, we saws, we conquered
+- geopy
